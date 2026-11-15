@@ -115,6 +115,15 @@ The model is validated by comparing 30-day readmission rates (`readmitted == "<3
 - **requests / BeautifulSoup** — web scraping of ICD-9 descriptions
 - **pathlib** — filesystem path handling
 
+## Team Members
+
+| Phase | Responsibilities | Contributors |
+|-------|------------------|--------------|
+| **Phase 1** | Clinical Data Ingestion & Cleaning | [Kaumini Warangana] |
+| **Phase 2** | Data Enrichment via Web Scraping | [Himasha Kashmira] |
+| **Phase 3** | Exploratory Data Analysis & Visualizations | [Asini Karunanayaka], [Lasandi Salwathura] |
+| **Phase 4** | Feature Engineering (VCI Scoring) | [Naveen Dhananjaya], [Nadeeja Amaraweera] |
+
 ## License
 
 This project was developed for academic purposes as part of the ITS 2122 course (Vitality Health Network group project).
